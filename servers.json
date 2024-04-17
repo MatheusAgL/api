@@ -1,26 +1,8 @@
 [
   {
-    "name": "Horizonte RP #1",
-    "ip": "149.56.252.173",
+    "name": "Brasil New Start",
+    "ip": "181.214.48.170",
     "port": 7777,
     "id": 1
-  },
-  {
-    "name": "Horizonte RP #2",
-    "ip": "51.222.228.151",
-    "port": 7777,
-    "id": 2
-  },
-  {
-    "name": "Horizonte RP #3",
-    "ip": "54.39.38.150",
-    "port": 7777,
-    "id": 3
-  },
-  {
-    "name": "Horizonte RP #4",
-    "ip": "149.56.155.127",
-    "port": 7777,
-    "id": 4
   }
 ]
